@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "803714758493",
+    "project_id": "roll-maze---2d-game-99786403",
+    "firebase_url": "https://roll-maze---2d-game-99786403-default-rtdb.firebaseio.com/",
+    "storage_bucket": "roll-maze---2d-game-99786403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803714758493:android:5a0a684878744be3021ab4",
+        "android_client_info": {
+          "package_name": "com.CreativeApps.RollingMaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803714758493-heqd2ha284vp80f93e0ema20mr5dhk2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMA1IY8TvRslAN4PEq_fonzVztbwqXgco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803714758493-heqd2ha284vp80f93e0ema20mr5dhk2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

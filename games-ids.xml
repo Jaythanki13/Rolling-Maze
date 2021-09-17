@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Google Play game services IDs. Save this file as res/values/games-ids.xml in your project.-->
+<resources>
+  <!--app_id-->
+  <string name="app_id" translatable="false">376744427095</string>
+  <!--package_name-->
+  <string name="package_name" translatable="false">com.CreativeApps.RollingMaze</string>
+  <!--achievement Google Play Games Sign In-->
+  <string name="achievement_google_play_games_sign_in" translatable="false">CgkI1_zevfsKEAIQAw</string>
+  <!--achievement Level Cleared-->
+  <string name="achievement_level_cleared" translatable="false">CgkI1_zevfsKEAIQBA</string>
+  <!--leaderboard Highest Star in All Level-->
+  <string name="leaderboard_highest_star_in_all_level" translatable="false">CgkI1_zevfsKEAIQBw</string>
+  <!--leaderboard Champion of Puzzle-->
+  <string name="leaderboard_champion_of_puzzle" translatable="false">CgkI1_zevfsKEAIQCA</string>
+</resources>
